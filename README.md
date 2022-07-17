@@ -47,7 +47,7 @@ Besides this, I occasionally play Badminton. Also, my hobbies include dancing, l
   <a href="https://www.facebook.com/priya.gole.399488/">
     <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="priyagole1222@gmail.com">
+  <a href="priyagole24@gmail.com">
     <img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
