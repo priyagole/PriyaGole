@@ -59,6 +59,8 @@ Besides this, I occasionally play Badminton. Also, my hobbies include dancing, l
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGole&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=PriyaGolet&color=blueviolet)
+
 
 
 
