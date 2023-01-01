@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me
 
 I am a third-year undergraduate in the Department of Computer Science and Engineering at IIT Kanpur.
-My interests include large part of Computer Science and Discrete Mathematics. Mainly, I am interested in Machine Learning, Deep Learning and currently diving into NLP. Besides this, I am deeply interested in learning about Number Theory and its real-world applications in fields like Cryptography. For starters, refer [this](https://abhishekshree.xyz/number-theory-applications/).  
+My interests include a large part of Computer Science and Discrete Mathematics. Mainly, I am interested in Machine Learning, Deep Learning and currently diving into NLP. Besides this, I am deeply interested in learning about Number Theory and its real-world applications in fields like Cryptography. For starters, refer [this](https://abhishekshree.xyz/number-theory-applications/).  
 
 Besides this, I occasionally play Badminton. Also, my hobbies include dancing, listening to music, and currently learning to play a keyboard. And I love interacting with people and love learning about new stuff.
 
