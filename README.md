@@ -53,9 +53,7 @@ Besides this, I occasionally play Badminton. Also, my hobbies include dancing, l
 </div>
 
 
-### :fire: My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PriyaGole&theme=radical)](https://git.io/streak-stats)  
+### :fire: Stats  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGole&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
